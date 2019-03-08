@@ -61,5 +61,3 @@ The server sends this:
 ```
 
 And the `normalizeErrors` function transform that array to `{ password: ['error 1', 'error 2'] }`.
-
-If someone wants an example more imperative, [here you go](https://github.com/MontoyaAndres/FormikCatchErrors).
